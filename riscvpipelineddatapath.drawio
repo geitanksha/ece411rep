@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T21:32:32.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CKe8wIfRVQ2tjszzTdtu" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T21:47:23.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xtMi-s8fydOGsqaZCHuf" version="21.0.6" type="github">
   <diagram name="Page-1" id="kgMieb5tGnYmpSowrMJh">
-    <mxGraphModel dx="2265" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1790" dy="2017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -729,6 +729,9 @@
         </mxCell>
         <mxCell id="cXYFK6wgHOzDuV9A7QU_-5" value="Register Writeback" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1810" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cXYFK6wgHOzDuV9A7QU_-6" value="Control word: struct of signals&lt;br&gt;Write out relevant signals in each stage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="690" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
